@@ -17,6 +17,7 @@ The script ensures error handling for failed downloads and missing files.
 Check out the script at [My file](WebScrape2.py)
 
 **Script for table with ISINs**
+
 For the excel table with ISINs the documents were in HTML tables on the website, so I ran a script that returned a data frame with the document URLs and other available data points. I then used this data frame to run the same [Script](WebScrape2.py)as above.
 
 It was lucky that an ISIN is a unique identifier so there was no need to deduplicate or perform other data cleaning, in a scenario where you are not given a unique identifier, you'd need the business to define clear parameters that allow you to find and identify the correct data. As usual its ultimately the business problem that you are trying to fix that is going to determine the code you'll use vs the other way round. 
