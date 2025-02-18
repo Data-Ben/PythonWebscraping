@@ -27,6 +27,6 @@ enough waffling! here's what the script does:
 2.	Extract relevant bond details.
 3.	Save the details in a structured CSV file.
 
-Check out the script at [Get tables](Get Tables.py)
+Check out the script at [Webscrape](Get tables.py)
 
 As per usual when building solutions there is lots of ways to accomplish it and I just used the first 1 that ran without any errors so please do suggest any other ways to do this I'd be super grateful for any comments and suggestions on how to improve code or on the methodology as a whole.
