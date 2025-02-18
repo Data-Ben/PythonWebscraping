@@ -24,7 +24,7 @@ def download_file(url, destination_folder):
 def load_excel_file(df):
     try:
         # Load the Excel file using pandas
-        df = pd.read_excel('Absafile.xlsx')
+        df = pd.read_excel('') #add your excel file here
         return df
     except Exception as e:
         print(f"Error loading Excel file: {e}")
