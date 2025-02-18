@@ -14,5 +14,5 @@ My script does the following:
 4.	Uses requests for downloading and pandas for handling the Excel and CSV files.
 The script ensures error handling for failed downloads and missing files.
 
-Check out the script at [My file](WebScrape2.md)
+Check out the script at [My file](WebScrape2.py)
 
