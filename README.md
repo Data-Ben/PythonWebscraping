@@ -6,9 +6,13 @@ I relied on 2 excel files (surprise our old friend excel is still a key dependen
 
 
 **Script for table with URLS**
+My script does the following: 
+
 1.	Loads an Excel file containing URLs.
 2.	Extracts the URLs and downloads each file, saving them to a specified folder (./downloads).
 3.	Logs the download results (success/failure and error messages) in a CSV file (download_results.csv).
 4.	Uses requests for downloading and pandas for handling the Excel and CSV files.
 The script ensures error handling for failed downloads and missing files.
+
+Check out the script at [My file](WebScrape2.md)
 
